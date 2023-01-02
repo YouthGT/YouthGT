@@ -1,6 +1,35 @@
 - 👋 Hi, I’m @YouthGT
 - 👀 I’m interested in Open Source
-- 🌱 I’m currently learning C,java,C++,python
+- 🌱 I’m currently learning C,C#,java,C++,python.......Aha
+  
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YouthGT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YouthGT&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
 
 
 <!---
