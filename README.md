@@ -3,9 +3,7 @@
 ## qWq 
 
 
-- 👋 Hi, I’m @YouthGT
-- 👀 I’m interested in Open Source
-- 🌱 I’m currently learning C,C#,java,C++,python.......
+
 
 
 <br/>
