@@ -2,11 +2,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YouthGT&show_icons=true&count_private=true&hide_border=true" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouthGT&layout=compact&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=YouthGT&style=flat-square" />
+<img src="https://img.shields.io/github/followers/YouthGT?style=flat-square" />
+<img src="https://img.shields.io/github/stars/YouthGT?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" />
 
 </div>
